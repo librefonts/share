@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Share-BoldItalicExp.otf.GlyphOrder.ttx"/>
+  <head src="Share-BoldItalicExp.otf._h_e_a_d.ttx"/>
+  <hhea src="Share-BoldItalicExp.otf._h_h_e_a.ttx"/>
+  <maxp src="Share-BoldItalicExp.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Share-BoldItalicExp.otf.O_S_2f_2.ttx"/>
+  <name src="Share-BoldItalicExp.otf._n_a_m_e.ttx"/>
+  <cmap src="Share-BoldItalicExp.otf._c_m_a_p.ttx"/>
+  <post src="Share-BoldItalicExp.otf._p_o_s_t.ttx"/>
+  <CFF src="Share-BoldItalicExp.otf.C_F_F_.ttx"/>
+  <hmtx src="Share-BoldItalicExp.otf._h_m_t_x.ttx"/>
+</ttFont>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Share-BoldItalicOSF.ttf.GlyphOrder.ttx"/>
+  <head src="Share-BoldItalicOSF.ttf._h_e_a_d.ttx"/>
+  <hhea src="Share-BoldItalicOSF.ttf._h_h_e_a.ttx"/>
+  <maxp src="Share-BoldItalicOSF.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Share-BoldItalicOSF.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Share-BoldItalicOSF.ttf._h_m_t_x.ttx"/>
+  <VDMX src="Share-BoldItalicOSF.ttf.V_D_M_X_.ttx"/>
+  <cmap src="Share-BoldItalicOSF.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Share-BoldItalicOSF.ttf._f_p_g_m.ttx"/>
+  <prep src="Share-BoldItalicOSF.ttf._p_r_e_p.ttx"/>
+  <cvt src="Share-BoldItalicOSF.ttf._c_v_t.ttx"/>
+  <loca src="Share-BoldItalicOSF.ttf._l_o_c_a.ttx"/>
+  <glyf src="Share-BoldItalicOSF.ttf._g_l_y_f.ttx"/>
+  <kern src="Share-BoldItalicOSF.ttf._k_e_r_n.ttx"/>
+  <name src="Share-BoldItalicOSF.ttf._n_a_m_e.ttx"/>
+  <post src="Share-BoldItalicOSF.ttf._p_o_s_t.ttx"/>
+  <GDEF src="Share-BoldItalicOSF.ttf.G_D_E_F_.ttx"/>
+</ttFont>
