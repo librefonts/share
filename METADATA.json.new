@@ -1,0 +1,159 @@
+{
+  "name": "Share",
+  "designer": "Ralph du Carrois",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 45492,
+  "fonts": [
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-BoldExp-Regular.ttf",
+      "postScriptName": "Share-BoldExp",
+      "fullName": "Share-BoldExp",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-Bold.ttf",
+      "postScriptName": "Share-Bold",
+      "fullName": "Share Bold",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-Regular.ttf",
+      "postScriptName": "Share-Regular",
+      "fullName": "Share-Regular",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-BoldItalicOSF-Regular.ttf",
+      "postScriptName": "Share-BoldItalicOSF",
+      "fullName": "Share-BoldItalicOSF",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-RegularExp-Regular.ttf",
+      "postScriptName": "Share-RegularExp",
+      "fullName": "Share-RegularExp",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-ItalicOSF-Regular.ttf",
+      "postScriptName": "Share-ItalicOSF",
+      "fullName": "Share-ItalicOSF",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-BoldOSF-Regular.ttf",
+      "postScriptName": "Share-BoldOSF",
+      "fullName": "Share-BoldOSF",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-BoldItalic.ttf",
+      "postScriptName": "Share-BoldItalic",
+      "fullName": "Share-BoldItalic",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-Italic.ttf",
+      "postScriptName": "Share-Italic",
+      "fullName": "Share Italic",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-Italic-TTF.ttf",
+      "postScriptName": "Share-Italic",
+      "fullName": "Share Italic",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-Regular-TTF.ttf",
+      "postScriptName": "Share-Regular",
+      "fullName": "Share",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-RegularOSF-Regular.ttf",
+      "postScriptName": "Share-RegularOSF",
+      "fullName": "Share-RegularOSF",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-BoldItalic-TTF.ttf",
+      "postScriptName": "Share-BoldItalic",
+      "fullName": "Share Bold Italic",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-ItalicExp-Regular.ttf",
+      "postScriptName": "Share-ItalicExp",
+      "fullName": "Share-ItalicExp",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-Bold-TTF.ttf",
+      "postScriptName": "Share-Bold",
+      "fullName": "Share Bold",
+      "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\""
+    },
+    {
+      "name": "Share-BoldItalicExp",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Share-BoldItalicExp-Regular.ttf",
+      "postScriptName": "Share-BoldItalicExp",
+      "fullName": "Share-BoldItalicExp",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-02-08"
+}

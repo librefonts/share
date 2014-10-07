@@ -1,0 +1,16 @@
+commit: HEAD
+process_files: [Share-BoldItalic.ttf.ttx, Share-Regular.ttf.ttx, Share-Italic.ttf.ttx,
+  Share-Bold.ttf.ttx, src/Share-Italic.otf.ttx, src/Share-BoldItalic.otf.ttx, src/Share-Bold.otf.ttx,
+  src/Share-Regular.otf.ttx, src/shareexp/src/Share-BoldExp.otf.ttx, src/shareexp/src/Share-ItalicExp.otf.ttx,
+  src/shareexp/src/Share-BoldItalicExp.otf.ttx, src/shareexp/src/Share-RegularExp.otf.ttx,
+  src/shareexp/src/Share-ItalicExp.ttf.ttx, src/shareexp/src/Share-BoldExp.ttf.ttx,
+  src/shareexp/src/Share-BoldItalicExp.ttf.ttx, src/shareexp/src/Share-RegularExp.ttf.ttx,
+  src/shareosf/src/Share-RegularOSF.otf.ttx, src/shareosf/src/Share-BoldItalicOSF.ttf.ttx,
+  src/shareosf/src/Share-RegularOSF.ttf.ttx, src/shareosf/src/Share-ItalicOSF.ttf.ttx,
+  src/shareosf/src/Share-ItalicOSF.otf.ttx, src/shareosf/src/Share-BoldItalicOSF.otf.ttx,
+  src/shareosf/src/Share-BoldOSF.otf.ttx, src/shareosf/src/Share-BoldOSF.ttf.ttx,
+  src/Share-Regular-TTF.sfd, src/Share-BoldItalic-TTF.sfd, src/Share-Italic-TTF.sfd,
+  src/Share-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
